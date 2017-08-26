@@ -3,9 +3,9 @@
  
 Time for a Bit of Physics - 1974 Mtcars
 
-UI.R - User Interface code for the project - collects user inputs and sends them to the server
+ui.R - User Interface code for the project - collects user inputs and sends them to the server
 
-Server.R - Server code for the project - performs control and calculations and sends them back to the user
+server.R - Server code for the project - performs control and calculations and sends them back to the user
 
 The link below provides a brief description for the source code provided above.
 
